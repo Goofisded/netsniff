@@ -57,8 +57,8 @@ sudo python3 netsniff.py -i eth0
 
 ### Windows Setup
 
--Install [Npcap](https://npcap.com)
--Run Command Prompt as Admin:
+- Install [Npcap](https://npcap.com)
+- Run Command Prompt as Admin:
 
 ```cmd
 python netsniff.py -i "Ethernet"
@@ -101,20 +101,20 @@ CONFIG = {
 
 ## Contributing 🤝
 
--Fork the repository
--Create your feature branch:
+- Fork the repository
+- Create your feature branch:
 ```bash
 git checkout -b feature/amazing-feature
 ```
--Commit changes:
+- Commit changes:
 ```bash
 git commit -m 'Add amazing feature'
 ```
--Push to branch:
+- Push to branch:
 ```bash
 git push origin feature/amazing-feature
 ```
--Open a Pull Request
+- Open a Pull Request
 
 ## License 📄
 

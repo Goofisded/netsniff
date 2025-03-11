@@ -39,7 +39,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/netsniff.git
+git clone https://github.com/Goofisded/netsniff.git
 cd netsniff
 
 # Install dependencies
@@ -120,7 +120,7 @@ git push origin feature/amazing-feature
 
 Distributed under MIT License. See LICENSE for more information.
 
-<div align="center"> Made with ❤️ by [Your Name] | 🛡️ Happy Monitoring! </div>
+<div align="center"> Made with ❤️ by Goofisded | 🛡️ Happy Monitoring! </div>
 
 
 

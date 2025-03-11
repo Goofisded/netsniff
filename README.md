@@ -96,8 +96,8 @@ CONFIG = {
 
 <!-- Replace with actual screenshot URLs -->
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1344733909598077129/1349037379079508030/image.png?ex=67d1a477&is=67d052f7&hm=195f6c9e79d9c671ccba3fde4a3a5575dd80a13a178d151f5ad16804d7ffee8c&" width="45%"> 
-<img src="https://cdn.discordapp.com/attachments/1344733909598077129/1349038811174146098/image.png?ex=67d1a5cc&is=67d0544c&hm=c6c3e0ced00e8e571e4e2d51c3489ab4fa70b7dd98627e894d1c2d41efd0867c&" width="45%"> </div>
+<img src="https://cdn.discordapp.com/attachments/1344733909598077129/1349039462968983562/image.png?ex=67d1a667&is=67d054e7&hm=591d92578f955bcf1ca8cc1c39aef907125c64cbb90e44a9194f9d2538dd97b5&" width="45%"> 
+<img src="https://cdn.discordapp.com/attachments/1344733909598077129/1349039810416742570/image.png?ex=67d1a6ba&is=67d0553a&hm=0f22b89588713ab1f820e2cba3f579263138faf1cbdb5e713c2282699c424750&" width="45%"> </div>
 
 ## Contributing 🤝
 

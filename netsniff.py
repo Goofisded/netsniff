@@ -34,7 +34,7 @@ COLORS = {
 
 BANNER = Figlet(font='slant').renderText('NetSniff')
 
-# ====================== MAIN CLASS ======================
+# ====================== MAIN ======================
 class NetworkMonitor:
     def __init__(self, interface):
         self.interface = interface
@@ -185,7 +185,6 @@ class NetworkMonitor:
         except KeyboardInterrupt:
             self.signal_handler(None, None)
 
-# ====================== MAIN EXECUTION ======================
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description=f"{COLORS['SUCCESS']}NetSniff - Advanced Network Monitoring Tool{Style.RESET_ALL}",
